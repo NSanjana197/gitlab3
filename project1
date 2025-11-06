@@ -1,2 +1,6 @@
 hello
+<<<<<<< HEAD
 second message
+=======
+dash
+>>>>>>> 6c9d0cb (initial commit)
